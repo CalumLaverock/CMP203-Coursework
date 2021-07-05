@@ -1,0 +1,130 @@
+﻿  Camera.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\camera.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Cylinder.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\cylinder.cpp(127): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Disc.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\disc.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\disc.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\disc.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\disc.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\disc.cpp(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Input.cpp
+  Main.cpp
+  Model.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\model.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Plane.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\plane.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Scene.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(135): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(136): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(139): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(144): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(226): warning C4305: '+=': truncation from 'double' to 'float'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(229): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(239): warning C4305: '-=': truncation from 'double' to 'float'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(242): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(298): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(299): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(306): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(418): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(424): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(431): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(436): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(444): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(450): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(469): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(475): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(482): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(487): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(495): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(501): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(562): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(576): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(581): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(586): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(591): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(600): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(603): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(612): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(620): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(626): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(641): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(643): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(649): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(651): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(777): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(790): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(818): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(823): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(828): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(835): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(868): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(876): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(888): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(894): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(906): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(912): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(924): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(930): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(942): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(950): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\scene.cpp(962): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Shadow.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\shadow.cpp(73): warning C4018: '<': signed/unsigned mismatch
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\shadow.cpp(81): warning C4018: '>=': signed/unsigned mismatch
+  Shape.cpp
+  Cube.cpp
+  Skybox.cpp
+  Sphere.cpp
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\users\calum\documents\uni stuff\2nd year\cmp203\1700804 - calum laverock\source\graphicsprogramming\sphere.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vector3.cpp
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  397 of 397 functions (100.0%) were compiled.
+    47 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'F:\Users\Calum\Documents\Uni Stuff\2nd Year\CMP203\1700804 - Calum Laverock\source\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'F:\Users\Calum\Documents\Uni Stuff\2nd Year\CMP203\1700804 - Calum Laverock\source\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'F:\Users\Calum\Documents\Uni Stuff\2nd Year\CMP203\1700804 - Calum Laverock\source\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'F:\Users\Calum\Documents\Uni Stuff\2nd Year\CMP203\1700804 - Calum Laverock\source\Release\SOIL.pdb'; linking object as if no debug info
+  GraphicsProgramming.vcxproj -> F:\Users\Calum\Documents\Uni Stuff\2nd Year\CMP203\1700804 - Calum Laverock\source\Release\GraphicsProgramming.exe
